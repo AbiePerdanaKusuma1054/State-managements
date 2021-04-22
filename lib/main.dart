@@ -31,13 +31,13 @@ class MyHomePage extends StatelessWidget {
             ProductBox(
                 name: "Blue Grape",
                 description: "Fresh fruits",
-                price: 1000,
-                image: "blue.jpg"),
+                price: 11000,
+                image: "assets/blue.jpg"),
             ProductBox(
                 name: "Yellow Grape",
                 description: "Fresh fruits",
-                price: 1800,
-                image: "pixel.png"),
+                price: 18000,
+                image: "assets/pixel.png"),
           ],
         ));
   }
